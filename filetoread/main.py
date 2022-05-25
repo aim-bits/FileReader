@@ -7,6 +7,7 @@ def read_file_content(filename):
     # [assignment] Add your code here 
     toRead = open(filename, "r")
     toRead.read()
+    
     return "hello world"
    
 
